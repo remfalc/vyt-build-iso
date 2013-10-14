@@ -1,219 +1,219 @@
 [submodule "pkgs/vyatta-op"]
 	path = pkgs/vyatta-op
-	url = git://git.vyatta.com/vyatta-op
+	url = https://github.com/remfalc/vyt-vyatta-op
 [submodule "pkgs/vyatta-cfg"]
 	path = pkgs/vyatta-cfg
-	url = git://git.vyatta.com/vyatta-cfg
+	url = https://github.com/remfalc/vyt-vyatta-cfg
 [submodule "pkgs/vyatta-op-xml"]
 	path = pkgs/vyatta-op-xml
-	url = git://git.vyatta.com/vyatta-op-xml
+	url = https://github.com/remfalc/vyt-vyatta-op-xml
 [submodule "pkgs/vyatta-op-firewall"]
 	path = pkgs/vyatta-op-firewall
-	url = git://git.vyatta.com/vyatta-op-firewall
+	url = https://github.com/remfalc/vyt-vyatta-op-firewall
 [submodule "pkgs/vyatta-cfg-firewall"]
 	path = pkgs/vyatta-cfg-firewall
-	url = git://git.vyatta.com/vyatta-cfg-firewall
+	url = https://github.com/remfalc/vyt-vyatta-cfg-firewall
 [submodule "pkgs/vyatta-op-quagga"]
 	path = pkgs/vyatta-op-quagga
-	url = git://git.vyatta.com/vyatta-op-quagga
+	url = https://github.com/remfalc/vyt-vyatta-op-quagga
 [submodule "pkgs/vyatta-cfg-quagga"]
 	path = pkgs/vyatta-cfg-quagga
-	url = git://git.vyatta.com/vyatta-cfg-quagga
+	url = https://github.com/remfalc/vyt-vyatta-cfg-quagga
 [submodule "pkgs/vyatta-cfg-system"]
 	path = pkgs/vyatta-cfg-system
-	url = git://git.vyatta.com/vyatta-cfg-system
+	url = https://github.com/remfalc/vyt-vyatta-cfg-system
 [submodule "pkgs/vyatta-config-migrate"]
 	path = pkgs/vyatta-config-migrate
-	url = git://git.vyatta.com/vyatta-config-migrate
+	url = https://github.com/remfalc/vyt-vyatta-config-migrate
 [submodule "pkgs/vyatta-nat"]
 	path = pkgs/vyatta-nat
-	url = git://git.vyatta.com/vyatta-nat
+	url = https://github.com/remfalc/vyt-vyatta-nat
 [submodule "pkgs/vyatta-cluster"]
 	path = pkgs/vyatta-cluster
-	url = git://git.vyatta.com/vyatta-cluster
+	url = https://github.com/remfalc/vyt-vyatta-cluster
 [submodule "pkgs/vyatta-ravpn"]
 	path = pkgs/vyatta-ravpn
-	url = git://git.vyatta.com/vyatta-ravpn
+	url = https://github.com/remfalc/vyt-vyatta-ravpn
 [submodule "pkgs/vyatta-cfg-vpn"]
 	path = pkgs/vyatta-cfg-vpn
-	url = git://git.vyatta.com/vyatta-cfg-vpn
+	url = https://github.com/remfalc/vyt-vyatta-cfg-vpn
 [submodule "pkgs/vyatta-bash"]
 	path = pkgs/vyatta-bash
-	url = git://git.vyatta.com/vyatta-bash
+	url = https://github.com/remfalc/vyt-vyatta-bash
 [submodule "pkgs/vyatta-op-vpn"]
 	path = pkgs/vyatta-op-vpn
-	url = git://git.vyatta.com/vyatta-op-vpn
+	url = https://github.com/remfalc/vyt-vyatta-op-vpn
 [submodule "pkgs/vyatta-op-dhcp-server"]
 	path = pkgs/vyatta-op-dhcp-server
-	url = git://git.vyatta.com/vyatta-op-dhcp-server
+	url = https://github.com/remfalc/vyt-vyatta-op-dhcp-server
 [submodule "pkgs/vyatta-cfg-dhcp-server"]
 	path = pkgs/vyatta-cfg-dhcp-server
-	url = git://git.vyatta.com/vyatta-cfg-dhcp-server
+	url = https://github.com/remfalc/vyt-vyatta-cfg-dhcp-server
 [submodule "pkgs/vyatta-dhcp3-client"]
 	path = pkgs/vyatta-dhcp3-client
-	url = git://git.vyatta.com/vyatta-dhcp3
+	url = https://github.com/remfalc/vyt-vyatta-dhcp3
 [submodule "pkgs/vyatta-cfg-dhcp-relay"]
 	path = pkgs/vyatta-cfg-dhcp-relay
-	url = git://git.vyatta.com/vyatta-cfg-dhcp-relay
+	url = https://github.com/remfalc/vyt-vyatta-cfg-dhcp-relay
 [submodule "pkgs/ppp"]
 	path = pkgs/ppp
-	url = git://git.vyatta.com/ppp
+	url = https://github.com/remfalc/vyt-ppp
 [submodule "pkgs/vyatta-cfg-op-pppoe"]
 	path = pkgs/vyatta-cfg-op-pppoe
-	url = git://git.vyatta.com/vyatta-cfg-op-pppoe
+	url = https://github.com/remfalc/vyt-vyatta-cfg-op-pppoe
 [submodule "pkgs/iproute"]
 	path = pkgs/iproute
-	url = git://git.vyatta.com/vyatta-iproute
+	url = https://github.com/remfalc/vyt-vyatta-iproute
 [submodule "pkgs/vyatta-cfg-qos"]
 	path = pkgs/vyatta-cfg-qos
-	url = git://git.vyatta.com/vyatta-cfg-qos
+	url = https://github.com/remfalc/vyt-vyatta-cfg-qos
 [submodule "pkgs/vyatta-op-qos"]
 	path = pkgs/vyatta-op-qos
-	url = git://git.vyatta.com/vyatta-op-qos
+	url = https://github.com/remfalc/vyt-vyatta-op-qos
 [submodule "pkgs/vyatta-wanloadbalance"]
 	path = pkgs/vyatta-wanloadbalance
-	url = git://git.vyatta.com/vyatta-wanloadbalance
+	url = https://github.com/remfalc/vyt-vyatta-wanloadbalance
 [submodule "pkgs/vyatta-base"]
 	path = pkgs/vyatta-base
-	url = git://git.vyatta.com/vyatta-base
+	url = https://github.com/remfalc/vyt-vyatta-base
 [submodule "pkgs/vyatta-keepalived"]
 	path = pkgs/vyatta-keepalived
-	url = git://git.vyatta.com/vyatta-keepalived
+	url = https://github.com/remfalc/vyt-vyatta-keepalived
 [submodule "pkgs/vyatta-busybox"]
 	path = pkgs/vyatta-busybox
-	url = git://git.vyatta.com/vyatta-busybox
+	url = https://github.com/remfalc/vyt-vyatta-busybox
 [submodule "pkgs/net-snmp"]
 	path = pkgs/net-snmp
-	url = git://git.vyatta.com/net-snmp
+	url = https://github.com/remfalc/vyt-net-snmp
 [submodule "pkgs/vyatta-webgui"]
 	path = pkgs/vyatta-webgui
-	url = git://git.vyatta.com/vyatta-webgui
+	url = https://github.com/remfalc/vyt-vyatta-webgui
 [submodule "pkgs/vyatta-openvpn"]
 	path = pkgs/vyatta-openvpn
-	url = git://git.vyatta.com/vyatta-openvpn
+	url = https://github.com/remfalc/vyt-vyatta-openvpn
 [submodule "pkgs/vyatta-quagga"]
 	path = pkgs/vyatta-quagga
-	url = git://git.vyatta.com/vyatta-quagga
+	url = https://github.com/remfalc/vyt-vyatta-quagga
 [submodule "pkgs/vyatta-grub"]
 	path = pkgs/vyatta-grub
-	url = git://git.vyatta.com/vyatta-grub
+	url = https://github.com/remfalc/vyt-vyatta-grub
 [submodule "pkgs/linux-image"]
 	path = pkgs/linux-image
-	url = git://git.vyatta.com/linux-vyatta
+	url = https://github.com/remfalc/vyt-linux-vyatta
 [submodule "pkgs/vyatta-webproxy"]
 	path = pkgs/vyatta-webproxy
-	url = git://git.vyatta.com/vyatta-webproxy
+	url = https://github.com/remfalc/vyt-vyatta-webproxy
 [submodule "pkgs/iptables"]
 	path = pkgs/iptables
-	url = git://git.vyatta.com/iptables
+	url = https://github.com/remfalc/vyt-iptables
 [submodule "pkgs/live-initramfs"]
 	path = pkgs/live-initramfs
-	url = git://git.vyatta.com/live-initramfs
+	url = https://github.com/remfalc/vyt-live-initramfs
 [submodule "pkgs/vyatta-wirelessmodem"]
 	path = pkgs/vyatta-wirelessmodem
-	url = git://git.vyatta.com/vyatta-wirelessmodem
+	url = https://github.com/remfalc/vyt-vyatta-wirelessmodem
 [submodule "pkgs/open-vm-tools"]
 	path = pkgs/open-vm-tools
-	url = git://git.vyatta.com/open-vm-tools
+	url = https://github.com/remfalc/vyt-open-vm-tools
 [submodule "pkgs/initramfs-tools"]
 	path = pkgs/initramfs-tools
-	url = git://git.vyatta.com/initramfs-tools
+	url = https://github.com/remfalc/vyt-initramfs-tools
 [submodule "pkgs/netplug"]
 	path = pkgs/netplug
-	url = git://git.vyatta.com/netplug
+	url = https://github.com/remfalc/vyt-netplug
 [submodule "pkgs/ntp"]
 	path = pkgs/ntp
-	url = git://git.vyatta.com/ntp
+	url = https://github.com/remfalc/vyt-ntp
 [submodule "pkgs/ipset"]
 	path = pkgs/ipset
-	url = git://git.vyatta.com/ipset
+	url = https://github.com/remfalc/vyt-ipset
 [submodule "pkgs/vyatta-ipv6-rtradv"]
 	path = pkgs/vyatta-ipv6-rtradv
-	url = git://git.vyatta.com/vyatta-ipv6-rtradv
+	url = https://github.com/remfalc/vyt-vyatta-ipv6-rtradv
 [submodule "pkgs/vyatta-netflow"]
 	path = pkgs/vyatta-netflow
-	url = git://git.vyatta.com/vyatta-netflow
+	url = https://github.com/remfalc/vyt-vyatta-netflow
 [submodule "pkgs/pmacct"]
 	path = pkgs/pmacct
-	url = git://git.vyatta.com/pmacct
+	url = https://github.com/remfalc/vyt-pmacct
 [submodule "pkgs/vyatta-wireless"]
 	path = pkgs/vyatta-wireless
-	url = git://git.vyatta.com/vyatta-wireless
+	url = https://github.com/remfalc/vyt-vyatta-wireless
 [submodule "pkgs/squidguard"]
 	path = pkgs/squidguard
-	url = git://git.vyatta.com/squidguard
+	url = https://github.com/remfalc/vyt-squidguard
 [submodule "pkgs/vyatta-strongswan"]
 	path = pkgs/vyatta-strongswan
-	url = git://git.vyatta.com/vyatta-strongswan
+	url = https://github.com/remfalc/vyt-vyatta-strongswan
 [submodule "pkgs/vyatta-biosdevname"]
 	path = pkgs/vyatta-biosdevname
-	url = git://git.vyatta.com/vyatta-biosdevname
+	url = https://github.com/remfalc/vyt-vyatta-biosdevname
 [submodule "pkgs/linux-firmware"]
 	path = pkgs/linux-firmware
-	url = git://git.vyatta.com/linux-firmware
+	url = https://github.com/remfalc/vyt-linux-firmware
 [submodule "pkgs/vyatta-lldp"]
 	path = pkgs/vyatta-lldp
-	url = git://git.vyatta.com/vyatta-lldp
+	url = https://github.com/remfalc/vyt-vyatta-lldp
 [submodule "pkgs/lldpd"]
 	path = pkgs/lldpd
-	url = git://git.vyatta.com/lldpd
+	url = https://github.com/remfalc/vyt-lldpd
 [submodule "pkgs/libcap"]
 	path = pkgs/libcap
-	url = git://git.vyatta.com/libcap
+	url = https://github.com/remfalc/vyt-libcap
 [submodule "pkgs/vyatta-conntrack-sync"]
 	path = pkgs/vyatta-conntrack-sync
-	url = git://git.vyatta.com/vyatta-conntrack-sync
+	url = https://github.com/remfalc/vyt-vyatta-conntrack-sync
 [submodule "pkgs/squashfs"]
 	path = pkgs/squashfs
-	url = git://git.vyatta.com/squashfs
+	url = https://github.com/remfalc/vyt-squashfs
 [submodule "pkgs/conntrack-tools"]
 	path = pkgs/conntrack-tools
-	url = git://git.vyatta.com/conntrack-tools
+	url = https://github.com/remfalc/vyt-conntrack-tools
 [submodule "pkgs/vyatta-zone"]
 	path = pkgs/vyatta-zone
-	url = git://git.vyatta.com/vyatta-zone
+	url = https://github.com/remfalc/vyt-vyatta-zone
 [submodule "pkgs/vyatta-config-mgmt"]
 	path = pkgs/vyatta-config-mgmt
-	url = git://git.vyatta.com/vyatta-config-mgmt
+	url = https://github.com/remfalc/vyt-vyatta-config-mgmt
 [submodule "pkgs/ec2-ami-tools"]
 	path = pkgs/ec2-ami-tools
-	url = git://git.vyatta.com/ec2-ami-tools
+	url = https://github.com/remfalc/vyt-ec2-ami-tools
 [submodule "pkgs/ec2-api-tools"]
 	path = pkgs/ec2-api-tools
-	url = git://git.vyatta.com/ec2-api-tools
+	url = https://github.com/remfalc/vyt-ec2-api-tools
 [submodule "pkgs/userspace-rcu"]
 	path = pkgs/userspace-rcu
-	url = git://git.vyatta.com/userspace-rcu
+	url = https://github.com/remfalc/vyt-userspace-rcu
 [submodule "pkgs/vyatta-conntrack"]
 	path = pkgs/vyatta-conntrack
-	url = git://git.vyatta.com/vyatta-conntrack
+	url = https://github.com/remfalc/vyt-vyatta-conntrack
 [submodule "pkgs/libnetfilter-conntrack"]
 	path = pkgs/libnetfilter-conntrack
-	url = git://git.vyatta.com/libnetfilter-conntrack
+	url = https://github.com/remfalc/vyt-libnetfilter-conntrack
 [submodule "pkgs/libnetfilter-cttimeout"]
 	path = pkgs/libnetfilter-cttimeout
-	url = git://git.vyatta.com/libnetfilter-cttimeout
+	url = https://github.com/remfalc/vyt-libnetfilter-cttimeout
 [submodule "pkgs/vyatta-vrrp"]
 	path = pkgs/vyatta-vrrp
-	url = git://git.vyatta.com/vyatta-vrrp
+	url = https://github.com/remfalc/vyt-vyatta-vrrp
 [submodule "pkgs/libmnl"]
 	path = pkgs/libmnl
-	url = git://git.vyatta.com/libmnl
+	url = https://github.com/remfalc/vyt-libmnl
 [submodule "pkgs/libnetfilter-queue"]
 	path = pkgs/libnetfilter-queue
-	url = git://git.vyatta.com/libnetfilter-queue
+	url = https://github.com/remfalc/vyt-libnetfilter-queue
 [submodule "pkgs/libnetfilter-cthelper"]
 	path = pkgs/libnetfilter-cthelper
-	url = git://git.vyatta.com/libnetfilter-cthelper
+	url = https://github.com/remfalc/vyt-libnetfilter-cthelper
 [submodule "pkgs/vyatta-util"]
 	path = pkgs/vyatta-util
-	url = git://git.vyatta.com/vyatta-util
+	url = https://github.com/remfalc/vyt-vyatta-util
 [submodule "pkgs/libczmq"]
 	path = pkgs/libczmq
-	url = git://git.vyatta.com/libczmq
+	url = https://github.com/remfalc/vyt-libczmq
 [submodule "pkgs/libzmq-constants-perl"]
 	path = pkgs/libzmq-constants-perl
-	url = git://git.vyatta.com/libzmq-constants-perl
+	url = https://github.com/remfalc/vyt-libzmq-constants-perl
 [submodule "pkgs/libzmq-libzmq2-perl"]
 	path = pkgs/libzmq-libzmq2-perl
-	url = git://git.vyatta.com/libzmq-libzmq2-perl
+	url = https://github.com/remfalc/vyt-libzmq-libzmq2-perl
